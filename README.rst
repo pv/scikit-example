@@ -57,7 +57,7 @@ and moreover it will list the package in the Scikits index:
 http://scikits.appspot.com/scikits
 
 For more information, see the `PyPi tutorial
-<http://wiki.python.org/moin/CheeseShopTutorial>`__
+<https://python-packaging-user-guide.readthedocs.io>`__
 
 To register a package on PyPi and upload the sources at the same time::
 
